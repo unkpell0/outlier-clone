@@ -1,0 +1,5 @@
+{
+  "name": "Outlier AI Clone",
+  "description": "A modern, visually aesthetic clone of the Outlier.ai homepage, built with React, TypeScript, and Tailwind CSS. This project showcases a professional landing page structure with responsive design and interactive UI elements.",
+  "requestFramePermissions": []
+}
